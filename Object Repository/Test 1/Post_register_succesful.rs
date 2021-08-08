@@ -3,7 +3,7 @@
    <description></description>
    <name>Post_register_succesful</name>
    <tag></tag>
-   <elementGuidId>317a00e9-e572-48cf-8fde-7235d7500ee3</elementGuidId>
+   <elementGuidId>f79798b7-305c-42ee-8021-a4a48a9acc33</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

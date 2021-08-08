@@ -3,7 +3,7 @@
    <description></description>
    <name>Get_Single_User</name>
    <tag></tag>
-   <elementGuidId>d776de43-7195-45ee-bdc1-b11cf2f62357</elementGuidId>
+   <elementGuidId>957c336a-2d2f-4379-afcd-fb34a9f44b65</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

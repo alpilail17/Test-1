@@ -3,7 +3,7 @@
    <description></description>
    <name>Get_list_user</name>
    <tag></tag>
-   <elementGuidId>f929a66b-d475-4c45-ae49-905bf55bea68</elementGuidId>
+   <elementGuidId>aa95552e-de74-4f2f-9e08-b6565755e02b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>0</connectionTimeout>

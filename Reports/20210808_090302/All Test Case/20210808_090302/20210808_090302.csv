@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-All Test Case,,,,2021-08-08 09:03:09,2021-08-08 09:03:19,10.338s,PASSED
-,,,,,,,
-Test Cases/Test 1/Test 1,,,,2021-08-08 09:03:09,2021-08-08 09:03:19,9.617s,PASSED
-"sendRequestAndVerify(findTestObject(""Test 1/Get_list_user""))",,as i user i can get list user data successfuly,,2021-08-08 09:03:10,2021-08-08 09:03:15,4.386s,PASSED
-"sendRequestAndVerify(findTestObject(""Test 1/Get_Single_User""))",,as i user i can get single user data successfuly,,2021-08-08 09:03:15,2021-08-08 09:03:16,1.243s,PASSED
-"sendRequestAndVerify(findTestObject(""Test 1/Put_update""))",,as i user i can post put update and successfuly,,2021-08-08 09:03:16,2021-08-08 09:03:17,1.521s,PASSED
-"sendRequestAndVerify(findTestObject(""Test 1/Post_register_succesful""))",,as i user i can post post register and successfuly,,2021-08-08 09:03:17,2021-08-08 09:03:19,1.522s,PASSED
